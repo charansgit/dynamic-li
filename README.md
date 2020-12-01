@@ -1,6 +1,6 @@
 # dynamic-li
 
-Hi Team,
+Hi There,
 
 This repository is mainly used for displaying the dynamic list on the web page. Data source for the list is refered from a file named "listdata.js" and this data gets parsed in "script.js".
 
